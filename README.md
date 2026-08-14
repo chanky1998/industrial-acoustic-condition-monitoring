@@ -1,8 +1,10 @@
-# Acoustic Anomaly Detection for Industrial Machines
+# Industrial Acoustic Condition Monitoring
 
 ## Objective
 
-Acoustic condition monitoring and anomaly detection for industrial machines using the MIMII-DUE fan dataset.
+This project investigates acoustic anomaly detection for industrial machines using signal processing, machine learning, CNN autoencoders, and few-shot domain adaptation.
+
+The experiments are conducted on the MiMII DUE fan dataset, with a focus on source-to-target domain shift and three-shot target-domain adaptation.
 
 ## Dataset
 

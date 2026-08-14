@@ -23,6 +23,22 @@ Each section contains:
 - Source-domain test data
 - Target-domain test data
 
+### Example Acoustic Signals
+
+The following figures show examples of the acoustic data used in this project.
+
+#### Time-domain waveform
+
+Example waveform of a fan recording in the time domain.
+
+![Example time-domain waveform](results/time_domain_example.png)
+
+#### Mel spectrogram
+
+Example Mel spectrogram of a fan recording, showing the distribution of acoustic energy across frequency and time.
+
+![Example Mel spectrogram](results/spectrogram_example.png)
+
 ## Methods
 
 ### Classical baselines

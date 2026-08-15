@@ -20,13 +20,10 @@ ENV/
 .mypy_cache/
 .ruff_cache/
 
-# =========================
-# Project data
-# =========================
-
 data/
 papers/
 vorstellung/
+#results/
 
 *.wav
 *.mp3
@@ -36,8 +33,6 @@ vorstellung/
 *.pth
 *.pt
 *.ckpt
-
-#results/
 
 *.tmp
 *.temp
